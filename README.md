@@ -1,2 +1,2 @@
-# IBM-DS-Capstone
-Final Project of the IBM Data Science Professional Certification
+# IBM Applied Data Science Capstone
+Final Course/Project of the IBM Data Science Professional Certification
